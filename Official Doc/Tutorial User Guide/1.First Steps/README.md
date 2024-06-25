@@ -1,6 +1,7 @@
 [Doc Link](https://fastapi.tiangolo.com/tutorial/first-steps/)
 
-- To run server
-```bash
-uvicorn main:app --reload
-```
+- How to run server
+
+  ```bash
+  fastapi dev main.py
+  ```
