@@ -31,3 +31,5 @@
     ```bash
     uvicorn main:app --reload
     ```
+
+- Server at `http://127.0.0.1:8000/`
