@@ -1,4 +1,4 @@
-- [FastAPI Path Parameters Doc](https://fastapi.tiangolo.com/tutorial/path-params/)
+- [FastAPI Path parameters with types Doc](https://fastapi.tiangolo.com/tutorial/path-params/#path-parameters-with-types)
 
 - Create python virtual environment
 

@@ -1,4 +1,4 @@
-- [FastAPI Path Parameters Doc](https://fastapi.tiangolo.com/tutorial/path-params/)
+- [FastAPI Path Parameters Order matters Doc](https://fastapi.tiangolo.com/tutorial/path-params/#order-matters)
 
 - Create python virtual environment
 
