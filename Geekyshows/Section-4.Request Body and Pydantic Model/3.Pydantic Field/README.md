@@ -1,4 +1,4 @@
-- [FastAPI Request Body Doc](https://fastapi.tiangolo.com/tutorial/body/)
+- [FastAPI Body - Fields Doc](https://fastapi.tiangolo.com/tutorial/body-fields)
 
 - Create python virtual environment
 

@@ -1,4 +1,4 @@
-- [FastAPI Request Body Doc](https://fastapi.tiangolo.com/tutorial/body/)
+- [FastAPI Body - Nested Models Doc](https://fastapi.tiangolo.com/tutorial/body-nested-models/)
 
 - Create python virtual environment
 
