@@ -1,4 +1,4 @@
-- [FastAPI Install custom exception handlers Doc](https://fastapi.tiangolo.com/tutorial/handling-errors/#install-custom-exception-handlers)
+- [FastAPI Override the default exception handlers Doc](https://fastapi.tiangolo.com/tutorial/handling-errors/#override-the-default-exception-handlers)
 
 - Create python virtual environment
 
