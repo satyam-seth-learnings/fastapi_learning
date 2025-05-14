@@ -1,3 +1,5 @@
 - [SQLAlchemy Official Doc](https://www.sqlalchemy.org/)
 
-- ![Introduction to SQLAlchemy](1.png)
+- ![Core APIs](1.png)
+
+- ![ORM](2.png)
