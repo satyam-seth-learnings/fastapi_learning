@@ -18,12 +18,18 @@
     pip install "fastapi[standard]"
     ```
 
-- [SQLAlchemy Installation Doc](https://docs.sqlalchemy.org/en/20/intro.html#installation)
+- [SQLAlchemy Asynchronous I/O (asyncio) Doc](https://docs.sqlalchemy.org/en/20/orm/extensions/asyncio.html)
 
-- Install SQLAlchemy
+- Install SQLAlchemy with async support
 
     ```bash
-    pip install SQLAlchemy
+    pip install sqlalchemy[asyncio]
+    ```
+
+- Install aiosqlite for SQLite
+
+    ```bash
+    pip install aiosqlite
     ```
 
 - [Alembic’s Installation Doc](https://alembic.sqlalchemy.org/en/latest/front.html#installation)
@@ -34,10 +40,12 @@
     pip install alembic
     ```
 
+- [Using Asyncio with Alembic Doc](https://alembic.sqlalchemy.org/en/latest/cookbook.html#using-asyncio-with-alembic)
+
 - Initialize Alembic
 
     ```bash
-    alembic init alembic
+    alembic init -t async alembic
     ```
 
 - Create migration
