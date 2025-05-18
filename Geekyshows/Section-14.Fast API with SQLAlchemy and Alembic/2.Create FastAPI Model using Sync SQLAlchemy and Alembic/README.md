@@ -26,18 +26,6 @@
     pip install SQLAlchemy
     ```
 
-- Create migration
-
-    ```bash
-    alembic revision --autogenerate -m "create users table"
-    ```
-
-- Run migration
-
-    ```bash
-    alembic upgrade head
-    ```
-
 - [Alembic’s Installation Doc](https://alembic.sqlalchemy.org/en/latest/front.html#installation)
 
 - Install Alembic
@@ -50,4 +38,16 @@
 
     ```bash
     alembic init alembic
+    ```
+
+- Create migration
+
+    ```bash
+    alembic revision --autogenerate -m "create users table"
+    ```
+
+- Run migration
+
+    ```bash
+    alembic upgrade head
     ```
